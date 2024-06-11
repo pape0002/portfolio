@@ -266,7 +266,7 @@ div#slider figure {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 10px;
-    margin: 0 3rem 0 4rem;
+    margin: 0 4rem 0 4rem;
   }
 
   #portfolio {
